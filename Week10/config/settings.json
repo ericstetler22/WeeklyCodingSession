@@ -1,0 +1,5 @@
+{
+  "targetOsPrefix": "10.",
+  "requiredOwnership": "Company",
+  "maxDevices": 100
+}
